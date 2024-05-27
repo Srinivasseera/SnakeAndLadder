@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace SnakeAndLadder.Game
 {
-    public class Program
+    public class Dice
     {
-        static void Main(string[] args)
+        private Random random = new Random();
+        public int roll() 
         {
-            
+            return random.Next(1, 7);
         }
+
     }
 }

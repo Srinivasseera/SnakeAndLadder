@@ -1,0 +1,7 @@
+C:\SnakeAndLadder.Game\SnakeAndLadder.Game\bin\Debug\SnakeAndLadder.Game.exe.config
+C:\SnakeAndLadder.Game\SnakeAndLadder.Game\bin\Debug\SnakeAndLadder.Game.exe
+C:\SnakeAndLadder.Game\SnakeAndLadder.Game\bin\Debug\SnakeAndLadder.Game.pdb
+C:\SnakeAndLadder.Game\SnakeAndLadder.Game\obj\Debug\SnakeAndLadder.Game.csproj.AssemblyReference.cache
+C:\SnakeAndLadder.Game\SnakeAndLadder.Game\obj\Debug\SnakeAndLadder.Game.csproj.CoreCompileInputs.cache
+C:\SnakeAndLadder.Game\SnakeAndLadder.Game\obj\Debug\SnakeAndLadder.Game.exe
+C:\SnakeAndLadder.Game\SnakeAndLadder.Game\obj\Debug\SnakeAndLadder.Game.pdb
